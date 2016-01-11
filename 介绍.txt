@@ -1,0 +1,12 @@
+bower.json: 管理前端的框架
+package.json: 后端的管理框架
+.bowerrc: touch .bowerrc ,在命令行输入这个命令,git bash,然后就生成了,管理bower安装文件时的安装目录位置
+.gitignore: git的忽略文件
+安装文件的方法:
+    bower install angular angular-route --save
+git的使用:
+ git add . 
+
+
+
+

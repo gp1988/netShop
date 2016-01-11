@@ -1,0 +1,28 @@
+{
+  "name": "net_shop",
+  "description": "test20160111 第一次练习",
+  "main": "index.js",
+  "authors": [
+    "gp"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "node"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-route": "~1.4.8",
+    "bootstrap": "~3.3.6"
+  }
+}

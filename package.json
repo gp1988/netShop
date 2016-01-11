@@ -1,0 +1,27 @@
+{
+  "name": "net_shop",
+  "version": "1.0.0",
+  "description": "test20160111",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gp1988/netShop.git"
+  },
+  "keywords": [
+    "shop",
+    "node",
+    "test"
+  ],
+  "author": "gp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gp1988/netShop/issues"
+  },
+  "homepage": "https://github.com/gp1988/netShop#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
